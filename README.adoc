@@ -1,7 +1,7 @@
 = ISO/TC 154 Resources site: www.sasil.org
 
-image:https://travis-ci.com/iso-tc154/www.sasil.org.svg?branch=master[
-	Build Status, link="https://travis-ci.com/iso-tc154/www.sasil.org"]
+image:https://travis-ci.com/sasil/www.sasil.org.svg?branch=master[
+	Build Status, link="https://travis-ci.com/sasil/www.sasil.org"]
 
 == Introduction
 
