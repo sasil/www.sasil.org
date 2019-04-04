@@ -1,0 +1,39 @@
+---
+layout: home
+nav_items: [about]
+---
+:page-liquid:
+
+
+[.section]
+== Welcome to SASIL
+
+The Standardization Association of Sinitic Languages and Han Characters,
+abbreviated as "`SASIL`", is founded in 2019 as an international
+standardization organization for matters relating to Sinitic languages
+and languages that utilize Sinographic or its derived characters.
+
+[.section]
+== Technical committees
+
+Our technical committees and their work programs can be found on our link:/tcs[Technical committees] page.
+
+////
+[.section]
+== Projects
+
+Existing and proposed projects can be found on our link:/projects[Projects] page.
+////
+
+[.section]
+== About us
+
+Our history and organizational structure are described in detail on our
+link:/about[About] page.
+
+////
+[.section]
+== Frequently asked questions
+
+Common questions about ISO/TC 154 and its standards are answered in our link:/faq[FAQ] page.
+////

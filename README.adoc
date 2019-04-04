@@ -1,0 +1,32 @@
+= ISO/TC 154 Resources site: www.sasil.org
+
+image:https://travis-ci.com/iso-tc154/www.sasil.org.svg?branch=master[
+	Build Status, link="https://travis-ci.com/iso-tc154/www.sasil.org"]
+
+== Introduction
+
+The ISO/TC 154 Resources site is used to publish resources and files
+relating to or referenced by ISO/TC 154 standards.
+
+This repository is used to build and deploy the
+https://www.sasil.org site.
+
+This repository is jointly managed by ISO/TC 154 and Ribose.
+
+
+== Building the site
+
+////
+# initializes/fetches the submodules (not used here)
+# make update-init update-modules
+////
+
+[source,sh]
+----
+# removes site artifacts
+make clean
+
+# makes _site
+make all
+----
+

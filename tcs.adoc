@@ -1,0 +1,87 @@
+---
+permalink: /tcs/
+---
+= Technical committees
+
+== Rationale
+
+Technical committees are divided by function, not dialect or language.
+//We may have a separate dialect/language committee.
+
+== Technical Management Board
+
+* Management of technical committees
+
+
+== Technical Committee: Transcription, transliteration and Romanization systems
+
+* Romanization systems (Jyutping, etc.), systems for names
+* Transcription systems (e.g. Cantonese transcription in Han characters)
+
+
+== Technical Committee: Writing systems
+
+* Punctuation
+* Segmentation of words and word writing conventions
+* Pedagogical grammar standardization
+
+
+== Technical Committee: Characters and words
+
+* Variant forms of characters (異體字)
+* Variant forms of words (異體詞)
+* Dialectal characters (方言字)
+* Character sets (e.g. HKCLS 和諧體)
+* Strokes, components and shapes, order
+* Dictionaries, thesauri, and corpuses
+
+
+== Technical Committee: Pronunciation
+
+* Readings of characters
+* Readings of words
+
+
+== Technical Committee: Terminology
+
+* Terminology in all fields (per language)
+* Every field has a Workgroup, e.g. IT terminology workgroup, medical terminology workgroup.
+* Online multi-lingual concept/terminology database (e.g. https://www.geolexica.com)
+
+
+== Technical Committee: Technology
+
+* Human computer interfaces
+** Intelligent input methods (e.g. white spaces between words)
+
+* Computer representation of Sinitic transcription/transliteration systems
+* Ontologies
+
+
+== Technical Committee: Education
+
+* Language proficiency tests
+* Styles of academic formats in Chinese (e.g. MLA and APA in English)
+* Citation formats
+
+* Templates of various business and governmental communication (letters, etc.)
+** Letters
+** Notices/circulars
+
+* Standard vocabulary and grammar for education levels
+* "`Simple Chinese`" (incl. for addressing a Cantonese audience)
+
+
+== Technical Committee: Cultural
+
+* Surveillance of character sets, word sets, language patterns in various Chinese communities
+* Translation of seminal documents:
+** the Girona Manifesto (https://pen-international.org/who-we-are/manifestos/the-girona-manifesto-on-linguistic-rights/read-the-girona-manifesto)
+** the Universal Declaration of Linguistic Rights (https://culturalrights.net/descargas/drets_culturals389.pdf)
+
+
+== Technical Committee: Legal
+
+* Examination of legal language usage in light of practices in other countries
+** (e.g. 中華人民共和國國家通用語言文字法)
+

@@ -1,0 +1,99 @@
+title: SASIL
+title_html: SASIL
+
+email: open.source@ribose.com
+
+committee:
+  id: 1
+  name: Standardization Association of Sinitic Languages and Han Characters
+  link: /
+
+description: >-
+  SASIL -- Standardization Association of Sinitic Languages and Han Characters
+
+tagline: >-
+  Resources
+
+baseurl: ""
+url: "https://www.sasil.org"
+
+theme: jekyll-theme-isotc211
+
+social:
+  links:
+    - url: https://github.com/sasil
+
+footer_nav:
+  # - url: https://committee.iso.org/home/tc154
+  #   title: Committee Site
+
+powered_by:
+  url: https://open.ribose.com
+  title: Ribose
+  logo_path: /assets/logo-ribose.svg
+
+collections:
+  # standards:
+  #   output: true
+  #   permalink: /:collection/:name/
+  # projects:
+  #   output: true
+  #   permalink: /:collection/:name/
+  # groups:
+  #   output: true
+  #   group-id: :name
+
+defaults:
+  # - scope:
+  #     path: ""
+  #     type: "standards"
+  #   values:
+  #     layout: post
+  # - scope:
+  #     path: ""
+  #     type: "projects"
+  #   values:
+  #     layout: post
+  # - scope:
+  #     path: ""
+  #     type: "groups"
+  #   values:
+  #     layout: post
+
+nav:
+  home:
+    url: /
+    title: Home
+  about:
+    url: /about
+    title: About
+  # faq:
+  #   url: /faq
+  #   title: FAQ
+  # standards:
+  #   url: /standards
+  #   title: Standards
+  # projects:
+  #   url: /projects
+  #   title: Projects
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - deploy.sh
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .sass-cache/
+
+header_pages:
+  - index.adoc
+  - about.adoc
+  - tcs.adoc
+  # - faq.adoc
+  # - projects.adoc
+  # - standards.adoc
+

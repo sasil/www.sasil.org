@@ -1,0 +1,7 @@
+---
+permalink: posts/2019-04-01-preliminary-website-launched/
+---
+= SASIL preliminary website
+
+This website is currently used for draft purposes.
+

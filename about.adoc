@@ -1,0 +1,25 @@
+---
+permalink: /about/
+---
+:page-liquid:
+= About us
+
+The Standardization Association of Sinitic Languages and Han Characters,
+abbreviated as "`SASIL`", is founded in 2019 as an international
+standardization organization for matters relating to Sinitic languages
+and languages that utilize Sinographic or its derived characters.
+
+////
+* Secretariat:
+* Secretary:
+* Chairperson:
+* Creation date: 2019
+////
+
+== Mission
+
+International standardization of matters relating to
+Sinitic Languages and Han Characters.
+
+Expose research for practical use.
+
