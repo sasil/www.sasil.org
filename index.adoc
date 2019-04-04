@@ -35,5 +35,5 @@ link:/about[About] page.
 [.section]
 == Frequently asked questions
 
-Common questions about ISO/TC 154 and its standards are answered in our link:/faq[FAQ] page.
+Common questions about SASIL and its standards are answered in our link:/faq[FAQ] page.
 ////
